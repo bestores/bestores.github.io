@@ -1,0 +1,12 @@
+___
+
+layout: page
+title: "Blog 0SP21 - Private Trackers"
+date: 2020-02-19 08:59:30 -0000
+categories: Jekyll Senior-Design
+
+___
+
+Hello and welcome to the Spring Portion of my blog! I hope you had a good Winter break, now strap yourself in for another round of my weekly blog entries revolving around topics regarding technology. Today I actually got interviewed and accepted into a private tracker so I thought that could be the focal point of today’s blog entry. A tracker is a server that coordinates the peer-to-peer connections in a swarm. It doesn't host any files but connects you to the other users sharing the files you want. Most trackers are public, which means anyone can find the torrent, join the swarm, and download the files. Private BitTorrent trackers, on the other hand, are more exclusive; to the outside world, they are just a blank login page with no indication of what they are, and only certain in-the-know people can join the site to find torrents. They also tend to be dedicated to certain types of files: one tracker may focus on music, while another focuses on movies, and yet another sticks to ebooks, comic books, or other media. This creates a bunch of small, tight-knit communities passionate about the subject matter, sharing only high quality files, and sharing them often which results in higher download speeds
+To get access to an private tracker you need to get an invite from an already existing member or if you’re lucky and the tracker is allowing new members (I have to wait a week before I finally got my chance to be interviewed); you can apply to interview for a chance to get access to the tracker. The interviews cover things such as that tracker’s rules, testing your knowledge on file types and which file types are allowed on the site and which are not. The interviews usually take about an hour but I got lucky; once I was able to provide my interviewer proof of my past history with other private trackers; they decided to waive the interview entirely and I was able to create an account with that tracker! Thanks for reading my blog on private trackers and have a good weekend!
+-Brent Estores 
